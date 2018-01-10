@@ -1,6 +1,6 @@
 # ResortReservationSystem
 
-Website that showcases my senior project using HTML, CSS, and Bootstrap libraries.
+Website for a Resort Reservation System in PHP, MySQL, codeigniter, and jquery. Supports a log-in system, account management, room reservations, reporting capabilities, and a home page.
 
 ## Getting Started
 
